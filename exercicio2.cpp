@@ -1,6 +1,3 @@
-/*g. Utilizando o último valor calculado de c, recalcule o valor da mesma
-utilizando a expressão 𝑎2 + 2 * 𝑏 + 𝑐, imprima o resultado na tela;*/
-
 #include <iostream>
 
 using namespace std;
